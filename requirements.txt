@@ -1,0 +1,13 @@
+deepface==0.0.79
+keras==2.12.0
+keras-facenet==0.3.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+matplotlib-venn==0.11.9
+mtcnn==0.1.1
+numpy~=1.24.3
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72
+plotly==5.13.1
+ipython~=8.14.0
